@@ -2,7 +2,7 @@
 
 ## Aspiring Cybersecurity Analyst
 
-Master of Cybersecurity student with hands-on experience in security operations, incident response, Linux administration, network analysis, and threat detection through practical labs and projects.
+Master of Cybersecurity student with hands-on experience in network security, incident response, Linux administration, intrusion detection, and security auditing.
 
 ## Certifications
 
@@ -12,45 +12,35 @@ Master of Cybersecurity student with hands-on experience in security operations,
 
 ## Technical Skills
 
-### Security
-- SIEM
-- Incident Response
-- Threat Detection
-- Log Analysis
-
-### Networking
+- Wireshark
+- Suricata
+- Linux
+- SQL
 - TCP/IP
 - DNS
-- HTTP
-- Wireshark
+- Incident Response
+- NIST Cybersecurity Framework
+- Network Security
 
-### Operating Systems
-- Linux
-- Windows
+## Featured Projects
 
-### Tools
-- Wireshark
-- GitHub
-- SQL
-- Linux CLI
+### Network Security
+- Network Traffic Analysis using Wireshark
+- Network Traffic Analysis using tcpdump
+- Intrusion Detection Using Suricata
 
-## Projects
+### Incident Response
+- Phishing Incident Response
+- Incident Handler's Journal
+- Incident Report Analysis using NIST CSF
 
-### Security Incident Investigation
-Investigated security alerts and identified malicious activity through log analysis.
+### Linux Security
+- User and Group Management in Linux
+- File Permissions in Linux
+- File Hashing in Linux
+- Cryptography in Linux
 
-### Linux Security Administration
-Performed user management, file permissions configuration, and security auditing.
-
-### Network Traffic Analysis
-Captured and analyzed network traffic using Wireshark to identify suspicious communications.
-
-## Education
-
-Master of Cybersecurity
-University of Sydney
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/dhruv-kumar-bhaskara-b5597b416/
-GitHub: https://github.com/Dhruv0d
+### Governance Risk and Compliance
+- Security Audit Scenario
+- Access Control Analysis
+- Data Leak Scenario (NIST CSF)
