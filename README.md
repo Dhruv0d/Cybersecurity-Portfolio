@@ -25,22 +25,20 @@ Master of Cybersecurity student with hands-on experience in network security, in
 ## Featured Projects
 
 ### Network Security
-- Network Traffic Analysis using Wireshark
-- Network Traffic Analysis using tcpdump
-- Intrusion Detection Using Suricata
+
+- [Network Traffic Analysis and DNS Investigation using Wireshark](./Network-Traffic-Analysis-Wireshark)
+
+### Security Monitoring
+
+- [Intrusion Detection and Alert Analysis using Suricata](./Intrusion-Detection-Using-Suricata)
 
 ### Incident Response
+
 - Phishing Incident Response
 - Incident Handler's Journal
-- Incident Report Analysis using NIST CSF
-
-### Linux Security
-- User and Group Management in Linux
-- File Permissions in Linux
-- File Hashing in Linux
-- Cryptography in Linux
 
 ### Governance Risk and Compliance
+
 - Security Audit Scenario
-- Access Control Analysis
 - Data Leak Scenario (NIST CSF)
+
