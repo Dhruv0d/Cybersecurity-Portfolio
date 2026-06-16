@@ -24,11 +24,11 @@ Master of Cybersecurity student with hands-on experience in network security, in
 
 ## Featured Projects
 
-### Network Security
+- ### Network Security
 
 - [Network Traffic Analysis and DNS Investigation using Wireshark](./Network-Traffic-Analysis-Wireshark)
 
-### Security Monitoring
+- [Network Traffic Capture and Analysis using tcpdump](./Network-Traffic-Analysis-tcpdump)
 
 - [Intrusion Detection and Alert Analysis using Suricata](./Intrusion-Detection-Using-Suricata)
 
